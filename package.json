@@ -2,5 +2,8 @@
   "devDependencies": {
     "pug": "^2.0.4",
     "stylus": "^0.54.7"
+  },
+  "dependencies": {
+    "material-design-icons": "^3.0.1"
   }
 }

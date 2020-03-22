@@ -1,3 +1,9 @@
+@font-face {
+  font-family: Lato, Material-;
+}
+img {
+  width: 100%;
+}
 .Willk {
   width: 240px;
   height: 119px;
@@ -10,9 +16,11 @@
   letter-spacing: normal;
   text-align: left;
   color: rgba(0,0,0,0.87);
-  margin: 0px;
+  margin: auto;
 }
 .HEREINSPAZIERT {
+  display: block;
+  margin: auto;
   width: 114px;
   height: 17px;
   font-family: Lato;
@@ -22,7 +30,6 @@
   font-style: normal;
   line-height: 1.21;
   letter-spacing: normal;
-  text-align: center;
   color: #fff;
   width: 344px;
   height: 48px;
@@ -31,7 +38,11 @@
   background-color: #3e89eb;
 }
 .container {
+  display: grid;
+  margin: auto;
+  padding-bottom: 10%;
   text-align: center;
+  width: 50%;
 }
 
 
