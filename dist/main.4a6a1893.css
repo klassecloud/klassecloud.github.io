@@ -1,4 +1,4 @@
-.Willk{
+.Willk {
   width: 240px;
   height: 119px;
   font-family: Lato;
@@ -7,15 +7,11 @@
   font-stretch: normal;
   font-style: normal;
   line-height: 1.25;
-  letter-spacing: normal;s
+  letter-spacing: normal;
   text-align: left;
-  color: rgba(0, 0, 0, 0.87);
-  margin: 0px
+  color: rgba(0,0,0,0.87);
+  margin: 0px;
 }
-h2{
-  background:red;
-}
-
 .HEREINSPAZIERT {
   width: 114px;
   height: 17px;
@@ -27,13 +23,16 @@ h2{
   line-height: 1.21;
   letter-spacing: normal;
   text-align: center;
-  color: #ffffff;
+  color: #fff;
   width: 344px;
   height: 48px;
   opacity: 0.87;
   border-radius: 6px;
   background-color: #3e89eb;
 }
-.container{
-  text-align: center
+.container {
+  text-align: center;
 }
+
+
+/*# sourceMappingURL=/main.4a6a1893.css.map */
