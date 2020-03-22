@@ -15,7 +15,9 @@
 }
 img {
   width: 100%;
-  margin-bottom: 20em;
+}
+iframe {
+  width: 100%;
 }
 .Willk {
   width: 400px;
