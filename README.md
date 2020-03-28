@@ -7,7 +7,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/55mKghL/github-full-64px.png" alt="github-full-64px" border="0"></a>
 <br>
 
-###Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!</font>
+<b>Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!</b>
 </div>
 
 ## 1. Problemstellung
