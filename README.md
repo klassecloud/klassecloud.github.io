@@ -1,12 +1,11 @@
-
-<center>
-[![Instagram - coming soon!](https://i.ibb.co/8zhrnyS/logo-transp-450px.png "klasse.cloud")](http://www.klasse.cloud)      
-  
+<div align="center">
+[![Instagram - coming soon!](https://i.ibb.co/8zhrnyS/logo-transp-450px.png "klasse.cloud")](http://www.klasse.cloud)
+<br>
 [![Instagram - coming soon!](https://i.ibb.co/ggtW6sP/insta-64px.png "Instagram - coming soon!")]()
 [![Facebook - coming soon!](https://i.ibb.co/0JBvGVV/facebook-64px.png "Facebook - coming soon!")]() 
 [![klasse.cloud on Twitter](https://i.ibb.co/qYV4sd2/twitter-64px.png "klasse.cloud on Twitter")](https://twitter.com/klassecloud) 
 [![klasse.cloud on Github](https://i.ibb.co/55mKghL/github-full-64px.png "klasse.cloud on Github")](https://github.com/klassecloud/)
-</center>
+</div>
 
 ### Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!
 
