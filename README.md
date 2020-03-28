@@ -1,14 +1,15 @@
-<center>
-<p float="left">
+<p float="center">
     <img src="https://i.ibb.co/8zhrnyS/logo-transp-450px.png" /><br>
+
+    
     <img src="https://i.ibb.co/RSCck4b/insta.png" width="64" />
     <img src="https://i.ibb.co/vYG8zbQ/twitter.png" width="64" />
     <img src="https://i.ibb.co/qk612gx/facebook.png" width="64" />
     <img src="https://i.ibb.co/GF6Dp0X/youtube.png" width="64" />
     <img src="https://i.ibb.co/PQYjv4H/github-full.png" height="64" />
-</p>  
+</p>
+<br>
 ### Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!
-</center>
 
 ## 1. Problemstellung
 
