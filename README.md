@@ -1,7 +1,5 @@
-<p float="center">
-    <img src="https://i.ibb.co/8zhrnyS/logo-transp-450px.png" /><br>
-
-    
+<p float="justify">
+    <img src="https://i.ibb.co/8zhrnyS/logo-transp-450px.png" />    
     <img src="https://i.ibb.co/RSCck4b/insta.png" width="64" />
     <img src="https://i.ibb.co/vYG8zbQ/twitter.png" width="64" />
     <img src="https://i.ibb.co/qk612gx/facebook.png" width="64" />
