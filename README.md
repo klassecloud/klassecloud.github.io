@@ -4,8 +4,8 @@
 <b>Unterrichts-Materialien digital austauschen <br> - so einfach wie im Klassenzimmer!</b>
 <br>
 <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ggtW6sP/insta-64px.png" alt="klasse.cloud on Instagram - coming soon!" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/0JBvGVV/facebook-64px.png" alt="klasse.cloud on Facebook - coming soon" border="0"></a>
+<img src="https://i.ibb.co/ggtW6sP/insta-64px.png" title="klasse.cloud on Instagram - coming soon!" alt="klasse.cloud on Instagram - coming soon!" border="0">
+<img src="https://i.ibb.co/0JBvGVV/facebook-64px.png" title="klasse.cloud on Facebook - coming soon!" alt="klasse.cloud on Facebook - coming soon!" border="0">
 <a href="https://twitter.com/klassecloud"><img src="https://i.ibb.co/qYV4sd2/twitter-64px.png" alt="twitter-64px" border="0"></a>
 <a href="https://youtu.be/ZoVyL6qXdcU"><img src="https://i.ibb.co/3mqNvrx/youtube-64px.png" alt="youtube-64px" border="0"></a>
 <br>
