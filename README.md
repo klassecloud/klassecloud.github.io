@@ -1,14 +1,13 @@
 <div align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/yRzzJtm/logo-transp-520px.png" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/tC22y6S/logo-transp-400px.png" border="0"></a>
 <br>
 <b>Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!</b>
 <br>
 <br>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/0JBvGVV/facebook-64px.png" alt="facebook-64px" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ggtW6sP/insta-64px.png" alt="insta-64px" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/qYV4sd2/twitter-64px.png" alt="twitter-64px" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/3mqNvrx/youtube-64px.png" alt="youtube-64px" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/55mKghL/github-full-64px.png" alt="github-full-64px" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ggtW6sP/insta-64px.png" alt="klasse.cloud on Instagram - coming soon!" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/0JBvGVV/facebook-64px.png" alt="klasse.cloud on Facebook - coming soon" border="0"></a>
+<a href="https://twitter.com/klassecloud"><img src="https://i.ibb.co/qYV4sd2/twitter-64px.png" alt="twitter-64px" border="0"></a>
+<a href="https://youtu.be/ZoVyL6qXdcU"><img src="https://i.ibb.co/3mqNvrx/youtube-64px.png" alt="youtube-64px" border="0"></a>
 <br>
 </div>
 
