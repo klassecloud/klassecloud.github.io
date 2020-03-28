@@ -55,7 +55,9 @@ Am Freitag Kick Off Meeting und Ideensammlung, agiles Projektmanagement. Frage n
 Samstag Konzeption, UX Research, Interaction Concept, Customer Journey, Whitepaper, Iteration O, Designsprint, Techstack
 Sonntag Rapid Prototyping, Präsentation, Landingpage und Ausblick geben
 
-<a href="#"><img src="https://i.ibb.co/ggtW6sP/insta-64px.png" title="klasse.cloud on Instagram - coming soon!" alt="klasse.cloud on Instagram - coming soon!" border="0"></a>
-<a href="#"><img src="https://i.ibb.co/0JBvGVV/facebook-64px.png" title="klasse.cloud on Facebook - coming soon!" alt="klasse.cloud on Facebook - coming soon!" border="0"></a>
-<a href="https://twitter.com/klassecloud"><img src="https://i.ibb.co/qYV4sd2/twitter-64px.png" alt="twitter-64px" border="0"></a>
-<a href="https://youtu.be/ZoVyL6qXdcU"><img src="https://i.ibb.co/3mqNvrx/youtube-64px.png" alt="youtube-64px" border="0"></a>
+<br>
+
+<a href="#"><img src="https://i.ibb.co/ggtW6sP/insta-64px.png" title="klasse.cloud on Instagram - coming soon!" alt="klasse.cloud on Instagram - coming soon!" border="0" width="50"></a>
+<a href="#"><img src="https://i.ibb.co/0JBvGVV/facebook-64px.png" title="klasse.cloud on Facebook - coming soon!" alt="klasse.cloud on Facebook - coming soon!" border="0" width="50"></a>
+<a href="https://twitter.com/klassecloud"><img src="https://i.ibb.co/qYV4sd2/twitter-64px.png" alt="twitter-64px" border="0" width="50"></a>
+<a href="https://youtu.be/ZoVyL6qXdcU"><img src="https://i.ibb.co/3mqNvrx/youtube-64px.png" alt="youtube-64px" border="0" width="50"></a>
