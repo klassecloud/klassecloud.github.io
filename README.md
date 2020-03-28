@@ -7,7 +7,6 @@
     <img src="https://i.ibb.co/GF6Dp0X/youtube.png" width="64" />
     <img src="https://i.ibb.co/PQYjv4H/github-full.png" height="64" />
 </p>
-<br>
 
 ### Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!
 
