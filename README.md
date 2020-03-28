@@ -1,7 +1,7 @@
 <div align="center">
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/tC22y6S/logo-transp-400px.png" border="0"></a>
+<a href="http://www.klasse.cloud"><img src="https://i.ibb.co/fYSzRzH/logo-transp-300px.png" border="0"></a>
 <br>
-<b>Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!</b>
+<b>Unterrichts-Materialien digital austauschen <br> - so einfach wie im Klassenzimmer!</b>
 <br>
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ggtW6sP/insta-64px.png" alt="klasse.cloud on Instagram - coming soon!" border="0"></a>
