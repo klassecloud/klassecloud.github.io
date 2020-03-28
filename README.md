@@ -1,13 +1,12 @@
-<p float="left">
-    <img src="https://i.ibb.co/RSCck4b/insta.png" width="64" />
-    <img src="https://i.ibb.co/vYG8zbQ/twitter.png" width="64" />
-    <img src="https://i.ibb.co/qk612gx/facebook.png" width="64" />
-    <img src="https://i.ibb.co/GF6Dp0X/youtube.png" width="64" />
-    <img src="https://i.ibb.co/PQYjv4H/github-full.png" height="64" />
-</p>
+[![Instagram - coming soon!](https://i.ibb.co/8zhrnyS/logo-transp-450px.png "klasse.cloud")](http://www.klasse.cloud)      
   
-#### Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!
-<br>
+[![Instagram - coming soon!](https://i.ibb.co/ggtW6sP/insta-64px.png "Instagram - coming soon!")]()
+[![Facebook - coming soon!](https://i.ibb.co/0JBvGVV/facebook-64px.png "Facebook - coming soon!")]() 
+[![klasse.cloud on Twitter](https://i.ibb.co/qYV4sd2/twitter-64px.png "klasse.cloud on Twitter")](https://twitter.com/klassecloud) 
+[![klasse.cloud on Github](https://i.ibb.co/55mKghL/github-full-64px.png "klasse.cloud on Github")](https://github.com/klassecloud/)
+  
+### Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!
+
 ## 1. Problemstellung
 
 * Schulen sind aufgrund von COVID-19 geschlossen
