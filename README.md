@@ -1,13 +1,13 @@
 <div align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/d44qMkS/logo-transp-500px.png" border="0"></a><br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/0JBvGVV/facebook-64px.png" alt="facebook-64px" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/55mKghL/github-full-64px.png" alt="github-full-64px" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ggtW6sP/insta-64px.png" alt="insta-64px" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/qYV4sd2/twitter-64px.png" alt="twitter-64px" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/3mqNvrx/youtube-64px.png" alt="youtube-64px" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/55mKghL/github-full-64px.png" alt="github-full-64px" border="0"></a>
 <br>
 
-<font size="6"><b>Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!</b></font>
+<font size="12"><b>Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!</b></font>
 </div>
 
 ## 1. Problemstellung
