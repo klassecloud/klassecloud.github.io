@@ -1,7 +1,8 @@
 <div align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/yRzzJtm/logo-transp-520px.png" border="0"></a>
 <br>
-<b><font size="14">Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!</font></b>
+<b>Unterrichts-Materialien digital austauschen - so einfach wie im Klassenzimmer!</b>
+<br>
 <br>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/0JBvGVV/facebook-64px.png" alt="facebook-64px" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/ggtW6sP/insta-64px.png" alt="insta-64px" border="0"></a>
